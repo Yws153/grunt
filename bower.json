@@ -1,0 +1,23 @@
+{
+  "name": "grunt",
+  "description": "grnt",
+  "main": "index.js",
+  "authors": [
+    "yezi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "71456sb"
+  ],
+  "homepage": "https://github.com/Yws153/grunt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
